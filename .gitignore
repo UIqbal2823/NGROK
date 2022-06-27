@@ -1,0 +1,3 @@
+var gi = require(`gitignore`);
+
+/node_modules
